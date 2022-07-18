@@ -1,2 +1,2 @@
 # testing
-Repository to testing things
+Repository for testing things
